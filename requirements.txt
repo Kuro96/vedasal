@@ -1,0 +1,7 @@
+addict
+torch
+torchvision
+opencv-python
+terminaltables
+yapf
+pyyaml
