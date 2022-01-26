@@ -3,7 +3,6 @@ venv/
 venv*
 tmp/
 work_dir/
-vedacore/
 ./data/
 api/
 
